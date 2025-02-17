@@ -1,0 +1,18 @@
+{
+  "name": "aula_node",
+  "version": "1.0.0",
+  "description": "codigos da aula de node",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.19.0",
+    "eslint": "^9.19.0",
+    "globals": "^15.14.0"
+  },
+  "type": "module"
+}
