@@ -1,0 +1,21 @@
+{
+  "name": "user-management-api",
+  "version": "1.0.0",
+  "description": "User management system with RandomUser.me API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thyagoquintas/node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/thyagoquintas/node/issues"
+  },
+  "homepage": "https://github.com/thyagoquintas/node#readme"
+}
